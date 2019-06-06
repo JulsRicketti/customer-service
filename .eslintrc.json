@@ -1,0 +1,15 @@
+{
+    "root": true,
+    "parser": "babel-eslint",
+    "extends": [ "standard" ],
+    "plugins": [
+        "standard"
+    ],
+    "env": {
+        "node": true,
+        "mocha": true
+    },
+    "rules": {
+        "no-process-env": "error"
+    }
+}
