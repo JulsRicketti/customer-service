@@ -1,0 +1,9 @@
+{
+  "_id": "ert3a5h43212",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "email": "janedoe@email.com",
+  "phoneNumber": 123456789,
+  "address": "somewhere",
+  "__v": 0
+}
