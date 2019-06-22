@@ -2,7 +2,7 @@
 (function () {
   'use strict'
   module.exports = {
-    createCustomer: createCustomer
+    createCustomer
   }
 })()
 
